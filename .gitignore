@@ -1,0 +1,5 @@
+.local-backup-*/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.tmp
